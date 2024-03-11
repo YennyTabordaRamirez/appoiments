@@ -1,6 +1,6 @@
 # Microservicio de citas de laboratorio
 
-### Contiene un _backstage.yaml_ para la configuración y exposición del microservicio a través de un template en un Backstage
+#### Contiene un _backstage.yaml_ para la configuración y exposición del microservicio a través de un template en un Backstage
 
 ## Prerrequisitos
 
