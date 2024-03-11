@@ -1,0 +1,8 @@
+metadata:
+  name: nombre-del-microservicio
+  description: Descripción del microservicio
+  owner: Nombre del propietario
+  lifecycle: production
+  tags:
+    - tag1
+    - tag2
