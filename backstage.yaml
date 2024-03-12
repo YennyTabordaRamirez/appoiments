@@ -1,8 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
 metadata:
   name: ApoimentsApplication
-  description: Microservicio de citas de laboratorio. Contiene un backstage.yaml para la configuración y exposición del microservicio a través de un template en un Backstage
+  description: Microservicio de citas de laboratorio.
+spec:
+  type: library
   owner: YennyTabordaRamirez
   lifecycle: experimental
-  tags:
-    - tag1
-    - tag2
